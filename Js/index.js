@@ -7,6 +7,7 @@ window.onscroll = function () {
             span.style.width = span.dataset.width
         });
     } else {
+        console.log("yes")
         span.forEach((span) => {
             span.style.width = 0;
         });
