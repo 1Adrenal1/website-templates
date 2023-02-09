@@ -887,6 +887,8 @@ content: "";
     height: 30px;
     background-color: #eee;
     position: relative;
+        transition: 0.7s linear;
+
 }
 .our-skills .skill .the-progress span {
     position: absolute;
